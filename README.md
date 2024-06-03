@@ -35,7 +35,7 @@ My main goal is work as a full time developer, and keep working to be the best s
 ![AGPL License](https://img.shields.io/badge/sql%20server%20-%20black?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=red&color=black)
 
 ## Find me
-![Static Badge](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoan-carlos-sanchez-santos-233930a4%2F)
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoan-carlos-sanchez-santos-233930a4%2F">
 
 
 
