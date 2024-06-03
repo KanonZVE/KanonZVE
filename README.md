@@ -10,7 +10,7 @@ My native language is Spanish, but I am a B1 English student and every day I ded
 My main goal is work as a full time developer, and keep working to be the best software developer as can be.
 
 
-## Roadmap
+## Study Roadmap
 
 - Making my first IOS App (app to calculate food portions with a standard recipe)
         - Make the user interface using spline app.
