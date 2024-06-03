@@ -20,13 +20,6 @@ I have already worked in some positions related to software development, but it 
 My native language is Spanish, but I am a B1 English student and every day I dedicate some minutes to do my best to learn more.
 
 My main goal is work as a full time developer, and keep working to be the best software developer as can be.
-## Tech Stack
-
-**Client:** Swift, Python, C#, SQL Server
-
-
-
-
 ## Roadmap
 
 - Making my first IOS App (app to calculate food portions with a standard recipe)
@@ -47,5 +40,6 @@ My main goal is work as a full time developer, and keep working to be the best s
 )](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/unreal%20engine%20-%20black?style=for-the-badge&logo=unreal%20engine&logoColor=white&labelColor=silver
 )](http://www.gnu.org/licenses/agpl-3.0)
-
+![AGPL License](https://img.shields.io/badge/C%23%20-%20black?style=for-the-badge&logo=c%23&logoColor=white&labelColor=0246ad)
+![AGPL License](https://img.shields.io/badge/sql%20server%20-%20black?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=red&labelColor=white&color=black)
 
