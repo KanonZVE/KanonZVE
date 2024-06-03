@@ -1,7 +1,7 @@
 
 # Hello! My name is Joan Sanchez
 
-I am a Technical Engineer in Computer Science with 10 years of experience, I want to be a full time developer so at the moment I am practicing every day Swift, Python and C#. 
+I am a Technical Engineer in Computer Science since 2014, I want to be a full time developer so at the moment I am practicing every day Swift, Python and C#. 
 
 I have already worked in some positions related to software development, but it has never been my main activity, so for this motive I am learning and working to improve my skills. At the moment I'm working on some personal projects and my intention is to dedicate some time to other open source projects to practice.
 
