@@ -24,17 +24,23 @@ My main goal is to work as a full-time developer and keep working to be the best
 
 ## Technologies
 
-[![MIT License](https://img.shields.io/badge/swift%20-%20black?style=for-the-badge&logo=swift&logoColor=white&labelColor=orange
+[![Swift](https://img.shields.io/badge/swift%20-%20black?style=for-the-badge&logo=swift&logoColor=white&labelColor=orange
 )](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&logoColor=white&labelColor=green
+[![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&logoColor=white&labelColor=green
 )](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/unreal%20engine%20-%20black?style=for-the-badge&logo=unreal%20engine&logoColor=white&labelColor=silver
+[![Unreal Engine](https://img.shields.io/badge/unreal%20engine%20-%20black?style=for-the-badge&logo=unreal%20engine&logoColor=white&labelColor=silver
 )](http://www.gnu.org/licenses/agpl-3.0)
-![AGPL License](https://img.shields.io/badge/C%23%20-%20black?style=for-the-badge&logo=c%23&logoColor=white&labelColor=0246ad)
-![AGPL License](https://img.shields.io/badge/sql%20server%20-%20black?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=red&color=black)
+![C#](https://img.shields.io/badge/C%23%20-%20black?style=for-the-badge&logo=c%23&logoColor=white&labelColor=0246ad)
+![Microsoft SQL Server](https://img.shields.io/badge/sql%20server%20-%20black?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=red&color=black)
 
 ## Find me
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoan-carlos-sanchez-santos-233930a4%2F">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=blue&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjoan-carlos-sanchez-santos-233930a4%2F)](https://www.linkedin.com/in/joan-carlos-sanchez-santos-233930a4/)
+
+## My Humble Trophies and Metrics
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KanonZVE&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanonzve&show_icons=true&theme=midnight-purple)
 
 
