@@ -1,23 +1,23 @@
 
 # Hello my name is Joan Sanchez
 
-I am a Technical Engineer in Computer Science with 10 years of experience, I want to be a full-time developer so at the moment I am practicing every day Swift, Python, and C#.
+I am a Technical Engineer in Computer Science with 10 years of experience, I want to be a full-time developer so at the moment I am practicing Swift, Python, and C#.
 
 I have already worked in some positions related to software development, but it has never been my main activity, so with this motive I am learning and working to improve my skills. At the moment I'm working on some personal projects and I intend to dedicate some time and other open-source projects to practice.
 
 My native language is Spanish, but I am a B1 English student and every day I dedicate some minutes to do my best to learn more.
 
-My main goal is to work as a full-time developer and keep working to be the best software developer as can be.
+My main goal is to work as a full-time developer and keep working to be the best software developer possible.
 
 
 ## Practice Roadmap
 
 - Making my first IOS App (app to calculate food portions with a standard recipe)
-        - Make the user interface using spline app.
-        - Make the first alpha of the app, with the minimum requirements (divide the main recipe in the amount of portions).
+        - Make the user interface using Spline app.
+        - Make the first alpha of the app, with the minimum requirements (divide the main recipe by the number of portions).
         - Make an update to add more food if the user selects more people than the main recipe.
 
-- Make a port for my IOS app to windows with python.
+- Make a port for my IOS app to Windows with Python.
 
 - Make my first video game in Unreal Engine 5 (Metal Gear VR Like for mobile)
 
