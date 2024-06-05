@@ -1,5 +1,3 @@
-![Header](./image.png)
-
 
 # Hello my name is Joan Sanchez
 
