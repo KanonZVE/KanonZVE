@@ -1,5 +1,5 @@
 
-# Hello my name is Joan Sanchez
+# Hi there! My name is Joan Sanchez
 
 I am a Technical Engineer in Computer Science with 10 years of experience, I want to be a full-time developer so at the moment I am practicing Swift, Python, and C#.
 
