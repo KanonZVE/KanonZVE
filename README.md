@@ -12,14 +12,16 @@ My main goal is to work as a full-time developer and keep working to be the best
 
 ## My Junior Roadmap
 
-- Making my first IOS App (app to calculate food portions with a standard recipe)
+- Finish my Udemy Swift Course.
+
+- Finish this Developer Challenge in Swift(https://retosdeprogramacion.com/roadmap/).
+
+- Will make my first IOS App (app to calculate food portions with a standard recipe)
         - Make the user interface using Spline app.
         - Make the first alpha of the app, with the minimum requirements (divide the main recipe by the number of portions).
         - Make an update to add more food if the user selects more people than the main recipe.
 
-- Make a port for my IOS app to Windows with Python.
-
-- Make my first video game in Unreal Engine 5 (Metal Gear VR Like for mobile)
+- Will Make a port for my IOS app to Windows with Python.
 
 
 ## Technologies
