@@ -30,7 +30,6 @@ My main goal is to work as a full-time developer and keep working to be the best
 )](https://choosealicense.com/licenses/mit/)
 [![Python](https://img.shields.io/badge/python%20-%20black?style=for-the-badge&logo=python&logoColor=white&labelColor=green
 )](https://opensource.org/licenses/)
-)](http://www.gnu.org/licenses/agpl-3.0)
 ![C#](https://img.shields.io/badge/C%23%20-%20black?style=for-the-badge&logo=c%23&logoColor=white&labelColor=0246ad)
 ![Microsoft SQL Server](https://img.shields.io/badge/sql%20server%20-%20black?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=red&color=black)
 
